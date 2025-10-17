@@ -1,8 +1,11 @@
 {
-    "identifier": "org.clayden.Alabaster",
+    "identifier": "org.clayden.Alabaster_Nova",
     "name": "Alabaster",
     "organization": "Jon Clayden",
-    "description": "Lorem ipsum, dolor sit amet.",
-    "version": "1.0",
+    "description": "Alabaster, a minimal theme by Niki Tonsky, ported to Nova.",
+    "version": "0.1",
+    "license": "MIT",
+    "repository": "https://github.com/jonclayden/Alabaster_Nova",
+    "bugs": "https://github.com/jonclayden/Alabaster_Nova/issues",
     "categories": ["themes"]
 }

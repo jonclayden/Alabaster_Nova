@@ -1,33 +1,7 @@
-<!--
-👋 Hello! As Nova users browse the extensions library, a good README can help them understand what your extension does, how it works, and what setup or configuration it may require.
+[**Alabaster**](https://github.com/tonsky/sublime-scheme-alabaster) is a minimal theme that highlights code very selectively by design. It makes comments stand out more than most themes, on the basis that they convey important documentation. It was created by Niki Tonsky, who has outlined the thinking behind it in [a blog post](https://tonsky.me/blog/syntax-highlighting/).
 
-Not every extension will need every item described below. Use your best judgement when deciding which parts to keep to provide the best experience for your new users.
+This Nova port was created by Jon Clayden. It contains light and dark versions of the basic Alabaster theme, which are shown below.
 
-💡 Quick Tip! As you edit this README template, you can preview your changes by selecting **Extensions → Activate Project as Extension**, opening the Extension Library, and selecting "Alabaster" in the sidebar.
+![Light theme](/Images/extension/alabaster_light.png)
 
-Let's get started!
--->
-
-<!--
-🎈 To give users an idea of what your theme looks like, it's a great idea to show big, beautiful screenshots of your theme in action:
--->
-
-**Alabaster** provides a fun, bright palette:
-
-![](https://nova.app/images/en/dark/editor.png)
-
-<!--
-🎈 If your extension provides multiple variations, don't forget to show those too!
--->
-
-Alabaster also offers a lighter alternative:
-
-![](https://nova.app/images/en/light/editor.png)
-
-## Acknowledgements
-
-<!--
-🎈 If your theme is based on existing work by someone else, consider crediting the original author
--->
-
-Alabaster is based on _Original Alabaster_ by [Lauren Ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum).
+![Dark theme](/Images/extension/alabaster_dark.png)
