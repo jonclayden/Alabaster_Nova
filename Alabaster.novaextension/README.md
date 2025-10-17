@@ -2,6 +2,6 @@
 
 This Nova port was created by Jon Clayden. It contains light and dark versions of the basic Alabaster theme, which are shown below.
 
-![Light theme](/Images/extension/alabaster_light.png)
+![Light theme](https://github.com/jonclayden/Alabaster_Nova/raw/main/Alabaster.novaextension/Images/extension/alabaster_light.png)
 
-![Dark theme](/Images/extension/alabaster_dark.png)
+![Dark theme](https://github.com/jonclayden/Alabaster_Nova/raw/main/Alabaster.novaextension/Images/extension/alabaster_dark.png)
