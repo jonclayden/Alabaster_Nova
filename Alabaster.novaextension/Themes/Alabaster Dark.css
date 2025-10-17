@@ -1,0 +1,65 @@
+meta {
+    -theme-interface-style: dark;
+    /* -theme-vibrancy: vibrant; */
+    /* -theme-accent-color: auto; */
+}
+
+meta.document {
+    background-color: #0E1415;
+}
+
+meta.text {
+    color: #CECECE;
+}
+
+meta.text.selected {
+    color: #293334;
+}
+
+meta.cursor {
+    background-color: rgba(255, 255, 255, 0.07);
+}
+
+comment {
+    color: #DFDF8E;
+}
+
+bracket {
+    color: #708B8D;
+}
+
+operator {
+    color: #708B8D;
+}
+
+invalid {
+    background-color: #2B1D1E;
+    color: #c33;
+}
+
+value,
+identifier.constant {
+    color: #CC8BC9;
+}
+
+identifier.global,
+identifier.variable {
+    color: #71ADE7;
+}
+
+string {
+    color: #95CB82;
+}
+
+string.escape {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+markup.heading {
+    color: #71ADE7;
+}
+
+markup.code,
+markup.code-block {
+    background-color: rgba(255, 255, 255, 0.07);
+}
