@@ -37,7 +37,11 @@ invalid {
     color: #c33;
 }
 
-value,
+value.boolean,
+value.null,
+value.number,
+value.entity,
+value.symbol,
 identifier.constant {
     color: #CC8BC9;
 }
